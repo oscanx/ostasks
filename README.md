@@ -12,4 +12,4 @@ Tasks
 	* [JanLikar] make this change into a Pull Request on the upstream package: https://github.com/niteoweb/vcrpy/commit/eb0928f778aa373682791b423fb9831a8185f37a
 	* https://github.com/buildout/buildout/issues/300
 	* make this branch into a Pull Request on the upstream package: https://github.com/PyCQA/pep8-naming/compare/master...karantan:0.3.4
-	* https://gitlab.com/pycqa/flake8-docstrings/issues/11
+	* [JanLikar] https://gitlab.com/pycqa/flake8-docstrings/issues/11
