@@ -14,3 +14,7 @@ Tasks
 	* [JanLikar] make this change into a Pull Request on the upstream package: https://github.com/niteoweb/vcrpy/commit/eb0928f778aa373682791b423fb9831a8185f37a
 	* https://github.com/buildout/buildout/issues/300
 	* https://github.com/niteoweb/pbnchecker.com/issues/1
+	* https://github.com/thruflo/pyramid_basemodel/issues/11
+	* https://github.com/niteoweb/flake8-commitref/issues/1
+	* https://github.com/niteoweb/ostasks/issues/3
+	* https://github.com/niteoweb/ostasks/issues/4
