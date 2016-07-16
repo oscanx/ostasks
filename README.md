@@ -17,4 +17,4 @@ Tasks
 	* https://github.com/thruflo/pyramid_basemodel/issues/11
 	* https://github.com/niteoweb/flake8-commitref/issues/1
 	* [spedy] https://github.com/niteoweb/ostasks/issues/3
-	* https://github.com/niteoweb/ostasks/issues/4
+	* [JanLikar]https://github.com/niteoweb/ostasks/issues/4
