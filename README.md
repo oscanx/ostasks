@@ -16,5 +16,5 @@ Tasks
 	* https://github.com/niteoweb/pbnchecker.com/issues/1
 	* https://github.com/thruflo/pyramid_basemodel/issues/11
 	* https://github.com/niteoweb/flake8-commitref/issues/1
-	* https://github.com/niteoweb/ostasks/issues/3
+	* [spedy] https://github.com/niteoweb/ostasks/issues/3
 	* https://github.com/niteoweb/ostasks/issues/4
