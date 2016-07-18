@@ -12,8 +12,8 @@ Tasks
 	* [DONE][JanLikar] https://gitlab.com/pycqa/flake8-docstrings/issues/11
 	* [vietdt] https://github.com/repoze/repoze.sendmail/issues/31
 	* [JanLikar] make this change into a Pull Request on the upstream package: https://github.com/niteoweb/vcrpy/commit/eb0928f778aa373682791b423fb9831a8185f37a
-	* https://github.com/buildout/buildout/issues/300
-	* https://github.com/niteoweb/pbnchecker.com/issues/1
+	* [vietdt] https://github.com/buildout/buildout/issues/300
+	* [vietdt] https://github.com/niteoweb/pbnchecker.com/issues/1
 	* https://github.com/thruflo/pyramid_basemodel/issues/11
 	* https://github.com/niteoweb/flake8-commitref/issues/1
 	* [spedy] https://github.com/niteoweb/ostasks/issues/3
