@@ -18,3 +18,4 @@ Tasks
 	* [JanLikar]https://github.com/niteoweb/flake8-commitref/issues/1
 	* [spedy] https://github.com/niteoweb/ostasks/issues/3
 	* [JanLikar]https://github.com/niteoweb/ostasks/issues/4
+	* https://github.com/fschulze/mr.developer/issues/181
