@@ -19,3 +19,4 @@ Tasks
 	* [spedy] https://github.com/niteoweb/ostasks/issues/3
 	* [JanLikar]https://github.com/niteoweb/ostasks/issues/4
 	* https://github.com/fschulze/mr.developer/issues/181
+	* https://github.com/alembic/alembic/issues/113
