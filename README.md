@@ -20,3 +20,4 @@ Tasks
 	* [JanLikar]https://github.com/niteoweb/ostasks/issues/4
 	* https://github.com/fschulze/mr.developer/issues/181
 	* https://github.com/alembic/alembic/issues/113
+	* https://github.com/niteoweb/pyramid_heroku/issues/10
