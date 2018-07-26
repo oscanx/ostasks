@@ -22,3 +22,4 @@ Tasks
 	* https://github.com/alembic/alembic/issues/113
 	* https://github.com/niteoweb/pyramid_heroku/issues/10
 	* https://github.com/niteoweb/pyramid_heroku/issues/11
+	* https://github.com/niteoweb/pyramid_heroku/issues/12
