@@ -5,14 +5,15 @@ Below you will find a list of Open Source tasks that we need resolved. They are 
 Tasks
 -----
 
-* [ ] https://github.com/alembic/alembic/issues/113
+
 * [ ] https://github.com/niteoweb/pyramid_heroku/issues/10
 * [ ] https://github.com/niteoweb/pyramid_heroku/issues/11
 * [ ] https://github.com/niteoweb/pyramid_heroku/issues/12
 * [ ] https://github.com/niteoweb/pyramid_heroku/issues/13
 * [ ] https://github.com/woocart/localizations/issues/40
 * [ ] https://github.com/woocart/cartfront/issues/34
-* [ ] https://github.com/thruflo/pyramid_basemodel/issues/11
+* [x] https://github.com/alembic/alembic/issues/113
+* [x] https://github.com/thruflo/pyramid_basemodel/issues/11
 * [x] [@vietdt] https://github.com/niteoweb/heroku-buildpack-buildout/issues/13
 * [x] [@vietdt] https://github.com/niteoweb/heroku-buildpack-buildout/issues/12
 * [x] [@vietdt] https://github.com/plone/plone.api/issues/316
