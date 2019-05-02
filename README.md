@@ -5,7 +5,7 @@ Below you will find a list of Open Source tasks that we need resolved. They are 
 Tasks
 -----
 
-* [ ] https://github.com/niteoweb/ostasks/issues/7
+* [x] [@oscanx]https://github.com/niteoweb/ostasks/issues/7
 * [ ] https://github.com/niteoweb/ostasks/issues/6
 * [ ] https://github.com/niteoweb/Makefile/issues/1
 * [ ] https://github.com/niteoweb/pyramid_heroku/issues/11
